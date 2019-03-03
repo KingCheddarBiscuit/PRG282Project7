@@ -1,0 +1,14 @@
+c:\users\kingc\documents\visual studio 2015\Projects\PRG282_ProjectTake7\PRG282_ProjectTake7\bin\Debug\PRG282_ProjectTake7.exe.config
+c:\users\kingc\documents\visual studio 2015\Projects\PRG282_ProjectTake7\PRG282_ProjectTake7\bin\Debug\PRG282_ProjectTake7.exe
+c:\users\kingc\documents\visual studio 2015\Projects\PRG282_ProjectTake7\PRG282_ProjectTake7\bin\Debug\PRG282_ProjectTake7.pdb
+c:\users\kingc\documents\visual studio 2015\Projects\PRG282_ProjectTake7\PRG282_ProjectTake7\obj\Debug\PRG282_ProjectTake7.csprojResolveAssemblyReference.cache
+c:\users\kingc\documents\visual studio 2015\Projects\PRG282_ProjectTake7\PRG282_ProjectTake7\obj\Debug\PRG282_ProjectTake7.frmSplash.resources
+c:\users\kingc\documents\visual studio 2015\Projects\PRG282_ProjectTake7\PRG282_ProjectTake7\obj\Debug\PRG282_ProjectTake7.frmJets.resources
+c:\users\kingc\documents\visual studio 2015\Projects\PRG282_ProjectTake7\PRG282_ProjectTake7\obj\Debug\PRG282_ProjectTake7.frmLogin.resources
+c:\users\kingc\documents\visual studio 2015\Projects\PRG282_ProjectTake7\PRG282_ProjectTake7\obj\Debug\PRG282_ProjectTake7.frmNewUser.resources
+c:\users\kingc\documents\visual studio 2015\Projects\PRG282_ProjectTake7\PRG282_ProjectTake7\obj\Debug\PRG282_ProjectTake7.frmSpecs.resources
+c:\users\kingc\documents\visual studio 2015\Projects\PRG282_ProjectTake7\PRG282_ProjectTake7\obj\Debug\PRG282_ProjectTake7.Properties.Resources.resources
+c:\users\kingc\documents\visual studio 2015\Projects\PRG282_ProjectTake7\PRG282_ProjectTake7\obj\Debug\PRG282_ProjectTake7.csproj.GenerateResource.Cache
+c:\users\kingc\documents\visual studio 2015\Projects\PRG282_ProjectTake7\PRG282_ProjectTake7\obj\Debug\PRG282_ProjectTake7.exe
+c:\users\kingc\documents\visual studio 2015\Projects\PRG282_ProjectTake7\PRG282_ProjectTake7\obj\Debug\PRG282_ProjectTake7.pdb
+c:\users\kingc\documents\visual studio 2015\Projects\PRG282_ProjectTake7\PRG282_ProjectTake7\obj\Debug\PRG282_ProjectTake7.frmSimulation.resources
